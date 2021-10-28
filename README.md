@@ -1,2 +1,3 @@
 # CCEM image porocessing tutorial
-1. Load and display data in jupyter notebook
+- Files for Fiji demo
+- .ipynb file and images for Jupyter notebook demo
