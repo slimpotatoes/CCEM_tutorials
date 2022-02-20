@@ -1,4 +1,4 @@
-# CCEM image porocessing tutorial
+# CCEM image processing tutorial
 - Files for Fiji demo
 - .ipynb file and images for Jupyter notebook demo
 
