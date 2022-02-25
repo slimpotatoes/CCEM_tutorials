@@ -1,4 +1,4 @@
-# CCEM image processing tutorial
+# CCEM/CALM image processing tutorial
 - Files for Fiji demo
 - .ipynb file and images for Jupyter notebook demo
 
